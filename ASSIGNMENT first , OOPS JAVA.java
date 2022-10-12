@@ -1,7 +1,6 @@
                                            VISHAL CHATURVEDI
 					   2124MCA1037
-				           ASSIGNMENT 1
-
+				       
  Q1 Write a java program to insert 3 numbers from keyboard and findout greater number among 3 numbers.
  ANS  
       package insert3num;
