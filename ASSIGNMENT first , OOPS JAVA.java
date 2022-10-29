@@ -1,6 +1,4 @@
 
-			
-      package insert3num;
 import java.util.Scanner;
 public class insert3num {
 
@@ -64,9 +62,6 @@ static {
 }
 
 
-Q4
-
-package room;
 import java.util.Scanner;
 public class room {
 	Scanner s= new Scanner (System.in);
@@ -96,7 +91,7 @@ public class room {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 room s1=new room();
-s1.setdata();
+s1.setdata()jdjf
 s1.display();
 	}
 
