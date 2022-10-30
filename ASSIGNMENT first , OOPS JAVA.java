@@ -1,5 +1,5 @@
 
-import java.util.Scanner;
+import java.util.*;
 public class insert3num {
 
 	public static void main(String[] args) {
